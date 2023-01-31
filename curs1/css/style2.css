@@ -1,0 +1,10 @@
+div{
+    background-color:blue;
+    border-style:solid;
+}
+div>div{
+    background-color:blueviolet;
+}
+.mydiv2 > div{
+    background-color:red;
+}
